@@ -1,2 +1,2 @@
-# Pracrice-of-Saylani-landing-page-
-This is the practice of saylani website.
+Saylani Mass IT Training Web Replica Landing Page
+
